@@ -29,6 +29,5 @@ This is a basic Remote Keylogger built using Python. It uses the `pynput` librar
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/remote-keylogger-edu.git
-cd remote-keylogger-edu
+git clone https://github.com/vamsi8005/keylogger.git
 pip install pynput
